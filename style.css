@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400, 700;
+}
+
+.intro {
+    height: 100vh;
+    width: 100%;
+    background: 
+    url("../profilecard/images/bg-pattern-top.svg");
+}
+.bottom {
+    height: 100%;
+    width: 100%;
+    background: url("../profilecard/images/bg-pattern-bottom.svg");
+}
