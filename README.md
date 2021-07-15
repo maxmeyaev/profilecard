@@ -1,2 +1,2 @@
-# profilecard
-A basic profile card.
+# Profilecard
+Building a basic profile card.
