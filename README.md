@@ -10,6 +10,10 @@ A simple site showcasing a profile card.
 
 - Build out the project to the designs provided
 
+### Screenshot
+
+[![Screen-Shot.png](https://i.postimg.cc/SxXcj9Rf/Screen-Shot.png)](https://postimg.cc/SnhnvJWn)
+
 ## My process
 
 ### Built with
