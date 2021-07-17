@@ -1,4 +1,4 @@
-#Profile Card component
+## Profile Card component
 
 This is my solution to the challenge presented on [Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
